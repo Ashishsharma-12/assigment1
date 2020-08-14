@@ -8,6 +8,8 @@
 }
 .body { 
     background: whitesmoke;
+    background-image: url("./image.jpg");
+    z-index: -1;
 }
 .overlay {
     position: absolute;
